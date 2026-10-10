@@ -1,1 +1,2 @@
-Develop branch version 
+Student Management Application
+Feature and develop changes resolved
